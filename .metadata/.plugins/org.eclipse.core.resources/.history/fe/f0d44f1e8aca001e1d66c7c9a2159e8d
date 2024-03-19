@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SpringRest04-QueryStringApp">
+        <property name="context-root" value="SpringRest01-SimplePOC"/>
+        <property name="java-output-path" value="/SpringRest04-QueryStringApp/target/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+G:\SpringBoot-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1839232767.index
+\BootMVCProj01-DisplayingHomePage\src\main\java
+G:\SpringBoot-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1302157985.index
+\Stock-UI-App\src\main\java
+G:\SpringBoot-Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1393216625.index
+\BootMVCProj1-DisplayingHomePage\src\main\java
